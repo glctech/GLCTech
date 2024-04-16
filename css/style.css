@@ -890,7 +890,7 @@ section {
     }
 
     .clients img {
-	      max-width: 45%;
+	      max-width: 75%;
 	        transition: all 0.4s ease-in-out;
 		  display: inline-block;
 		    padding: 15px 0;
@@ -902,7 +902,7 @@ section {
 
 	      @media (max-width: 768px) {
 		        .clients img {
-				    max-width: 40%;
+				    max-width: 70%;
 				      }
 			      }
 
